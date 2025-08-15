@@ -1,0 +1,3 @@
+Time Start,Group,Duration,Header,Description,Color,Before T,After T,Before Event,After Event
+T1,G1,2,Research,Do research,blue,,,,
+T2,G2,1,Summary,Write summary,green,,T1,,Research

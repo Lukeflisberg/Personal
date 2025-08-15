@@ -1,0 +1,10 @@
+Start Time,Group,Duration,Header,Description,Before T,After T
+T1,G1,2,Morning Shift,First shift of the day,,
+T5,G1,1,Break,Time for a break,,
+T6,G1,3,Midday Shift,Second shift of the day,,
+T1,G3,2,Afternoon Shift,Final shift of the day,,
+T2,G2,2,Morning Shift,First shift of the day,,
+T6,G2,3,Midday Shift,Second shift of the day,,
+T5,G3,2,Afternoon Shift,Final shift of the day,T11,
+T4,G4,6,Sleeping,I need my sleep!!!,T10,T2
+T1,G5,4,test,...,,
