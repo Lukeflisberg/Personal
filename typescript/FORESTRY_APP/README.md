@@ -1,5 +1,6 @@
 ## 📌 To-Do List
 
+- [ ] Update Gantt Chart to work with new library@ @rsagiev/gantt-task-react-19
 - [ ] Implement groups as record index.
 - [ ] Display unassigned tasks on the map.
 - [ ] Give unassigned tasks their own header (like the groups) so they can be toggled.
